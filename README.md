@@ -21,6 +21,7 @@ File - Full.Release.Name
 
 ##Subtitles
 Subtitle.co.il, subscenter.co.il, torec.co.il
+
 AutoSubs
 
 
@@ -39,13 +40,19 @@ PULSAR - Video Add-on
 
 ##Manage Library Presentation
 WatchDog - Autoupdate Library
+
 extendedinfo - for sets data
+
 DialogExtendedProgressBar.xml in addons/skin folder - for automatic artwork download
 
 
 ##Files Automation
 Movies - CouchPotato
+
 Series - SickBeard
+
 Music - HeadPhones
+
 Comics - omniverse
+
 Games - Gamez (???)
